@@ -1,5 +1,5 @@
 package ua.com.foxminded.carmanager;
 
-public class Motocycle {
+public class Motocycle2 {
 
 }
