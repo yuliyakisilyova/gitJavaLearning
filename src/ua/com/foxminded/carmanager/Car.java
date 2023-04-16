@@ -1,6 +1,6 @@
 package ua.com.foxminded.carmanager;
 
-public class Car111 {
+public class Car {
 	public static void main(String[] args) {
 
 	}
